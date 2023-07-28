@@ -57,22 +57,22 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: "/planet-06.png",
+    title: "Women Entrepreneurs: Unleashing the Full Potential of Female-Owned Businesses",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        "Discover the transformative strategies and success stories that highlight how digital marketing can uplift and empower women entrepreneurs to thrive in today's competitive landscape",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: "/planet-07.png",
+    title: "Cracking the Code: Decoding Digital Marketing Trends for Women-Centric Brands",
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        "Stay ahead in the digital realm with this comprehensive guide exploring the latest trends, tools, and tactics customized to resonate with women-centric brands and captivate their target audience.",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: "/planet-08.png",
+    title: "Her Voice, Our Impact: Harnessing the Power of Influencer Marketing for Women's Brands",
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        "Delve into the world of influencer marketing and explore how connecting with authentic voices can amplify brand messaging, forge deeper connections with women consumers, and create a lasting impact.",
   },
 ];
 
@@ -80,17 +80,21 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: ''
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    link: ''
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    link: ''
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    link: ''
   },
 ];
