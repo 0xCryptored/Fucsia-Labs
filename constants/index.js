@@ -80,21 +80,21 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
-    link: ''
+    link: 'https://twitter.com/0xChipicita'
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
-    link: ''
+    link: 'https://www.linkedin.com/in/catalina-valencia-soto-a2a31616a/'
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
-    link: ''
+    link: 'https://instagram.com/cvivalenci?igshid=MjEwN2IyYWYwYw=='
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
-    link: ''
+    link: 'https://www.facebook.com/catalina.valencia.31'
   },
 ];
