@@ -30,10 +30,7 @@ const Feedback = () => (
           </p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta rerum
-          praesentium ea amet, ipsa cupiditate aliquam maxime et tempore
-          provident porro, animi nisi autem! Aliquid, dolores? Quisquam, fugit
-          aliquam. Veniam?"
+          "Find Unique ideas and opportunities to reinforce your brand, there are whole new concepts of things, and we now have the tools to change these into realities. We take on new challenges to inspire people and continue improving our ways to seek the impossible."
         </p>
       </motion.div>
 
